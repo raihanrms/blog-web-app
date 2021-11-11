@@ -1,0 +1,34 @@
+.header{
+    margin-top: 60px;
+}
+
+.headerTitles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family:'Lora';
+    color: rgb(20, 13, 85);
+}
+
+.headerTitles{
+    position: absolute;
+    margin-left: 700px;
+    top: 18%;
+    font-size: 20px;
+
+}
+
+.headerTitleLg{
+    position: absolute;
+    top: 20%;
+    font-size: 80px;
+
+}
+
+.headerImg{
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
+}
