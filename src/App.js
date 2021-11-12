@@ -11,7 +11,7 @@ function App() {
    <>
    
    <TopBar/>
-   <Register/>
+   <Single/>
    </>
   );
 } 
