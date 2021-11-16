@@ -73,3 +73,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Contributors:
     - Jim Ar Rafi
     - Raihan Munim
+
+---
+## Changes:
+### Word
+- its home in video, while we use Mainhome
+
+### Installed packages
+- npm install react-router-dom@5.2.0 
