@@ -49,8 +49,7 @@ export default function TopBar() {
                     )}
                 
                 <i className="topSearchIcon fas fa-search"></i>"
-            </div>
-        
+            </div>        
         </div>
     )
 }
