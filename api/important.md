@@ -6,7 +6,7 @@
 - can create post with image
 - delete/update posts
 
-### installed packages with commands
+### Installed packages with commands
 - npm add express mongoose dotenv multer
 - npm init 
 - npm add nodemon
